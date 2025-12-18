@@ -36,26 +36,7 @@
       </div>
     </td>
 
-    <td valign="top" width="25%">
-      <h3>Languages</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,java,python,go,js,ts&perline=3" />
-      </div>
-    </td>
-
-    <td valign="top" width="25%">
-      <h3>Databases & Cloud</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker&perline=3" />
-      </div>
-    </td>
-
-    <td valign="top" width="25%">
-      <h3>Tools</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman&perline=3" />
-      </div>
-    </td>
+   
   </tr>
 </table>
 
@@ -76,20 +57,7 @@
   </a>
 </div>
 
-<h2>Github Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/souvik-sarkar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souvik-sarkar&show_icons=true&theme=onedark&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-sarkar&layout=compact&theme=onedark&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/souvik-sarkar">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-sarkar&theme=onedark&hide_border=true"/>
-  </a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=souvik-sarkar&style=for-the-badge&color=orange" />
