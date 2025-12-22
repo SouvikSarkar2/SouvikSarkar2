@@ -19,7 +19,7 @@
 <ul>
   <li>Software Development Engineer with experience in backend, microservices, and full-stack systems</li>
   <li>Currently working as a <strong>Software Engineering Intern at Flipkart</strong></li>
-  <li>Former Software Engineer Intern at <strong>GTMVP Inc, Bengaluru</strong></li>
+  <li>Former Software Engineer Intern at <strong>GTMVP Inc</strong> <strong>MyMegaminds</strong></li>
   <li>Strong in Data Structures & Algorithms (650+ problems solved)</li>
   <li>Interested in system design, scalable backend services, and cloud-native architectures</li>
 </ul>
